@@ -1,0 +1,22 @@
+{
+  "name": "namstereact",
+  "version": "1.0.0",
+  "description": "new react app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahesh010223/myreact.git"
+  },
+  "author": "Mahesh k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahesh010223/myreact/issues"
+  },
+  "homepage": "https://github.com/Mahesh010223/myreact#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
