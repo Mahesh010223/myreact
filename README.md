@@ -7,3 +7,5 @@
 -caching-faster builds
 -image optimaize
 -bundle
+
+//jsx ==> reactElement(object) ==> html elememt
